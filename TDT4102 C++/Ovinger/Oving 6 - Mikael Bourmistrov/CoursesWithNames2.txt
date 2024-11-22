@@ -1,4 +1,0 @@
-TMT4110:Kjemi
-TMA4320:Introduksjon til vitenskapelige beregninger
-TFY4195:Optikk
-EXPH0300:Exphil
