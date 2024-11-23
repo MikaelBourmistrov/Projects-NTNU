@@ -5,5 +5,5 @@ The folders named "x. Semester" are the projects i've done for that semester.
 
 While the files under no folder were my favorite projects to work with.
 
-ENG - Document in English. ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎                                                             
-NOR - Document in Norwegian.
+[ENG] - Document in English. ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎                                                             
+[NOR] - Document in Norwegian.
